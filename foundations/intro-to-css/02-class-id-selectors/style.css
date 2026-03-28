@@ -1,9 +1,16 @@
-#odds {
+.odd {
   background-color: lightcoral;
-  font-size: 24px;
+    font-size: 24px;
 }
 
-div {
-  background-color: lightblue;
+#one {
+  color: blue;
+  font-weight: bold;
   font-size: 36px;
+}
+
+#two {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: 24px;
 }
