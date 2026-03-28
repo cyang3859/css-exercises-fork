@@ -1,4 +1,14 @@
 /* Add CSS Styling */
 button {
   font-size: 28px;
+  font-family: 'Helvetica', Times, serif;
+}
+
+.Choice1 {
+  background-color: black;
+  color: white;
+}
+
+.Choice2 {
+  background-color: yellow;
 }
